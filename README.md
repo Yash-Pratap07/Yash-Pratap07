@@ -26,27 +26,27 @@
   
 <p align="left">
   <a href="https://dev.to/akshat_raj_8228b77576196c">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" alt="Dev.to badge linking to profile" />
   </a>
 
   <a href="https://discord.com/users/lepoo6964">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" alt="Discord badge linking to profile" />
   </a>
 
   <a href="https://github.com/Yash-Pratap07">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" alt="GitHub badge linking to profile" />
   </a>
 
   <a href="https://www.instagram.com/yp_sj_07?igsh=M2x2aDVweno1YmZ6">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" alt="Instagram badge linking to profile" />
   </a>
 
-  <a href="https://www.linkedin.com/in/yash-pratap-b300423a9/>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yash-pratap-b300423a9/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn badge linking to profile" />
   </a>
 
   <a href="https://x.com/AkshatR88912905">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" alt="Twitter badge linking to profile" />
   </a>
 
 </p>
